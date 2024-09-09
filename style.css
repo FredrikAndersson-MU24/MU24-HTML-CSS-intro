@@ -1,0 +1,29 @@
+html {
+  background-color: rgb(67, 67, 67);
+  color: antiquewhite;
+}
+
+.span {
+  font-style: italic;
+}
+
+.ol {
+  color: rgb(15, 99, 15);
+  background-color: aliceblue;
+  border: ridge pink 4px;
+  padding: 25px;
+  margin: 15px;
+  list-style-type: lower-roman;
+}
+
+.ul {
+  color: yellow;
+  background-color: darkolivegreen;
+  margin: 10px;
+  border: double 20px black;
+  border-radius: 10px;
+}
+
+.p1 {
+  color: wheat;
+}
