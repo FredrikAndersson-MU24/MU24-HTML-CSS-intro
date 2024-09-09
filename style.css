@@ -8,22 +8,36 @@ html {
 }
 
 .ol {
-  color: rgb(15, 99, 15);
-  background-color: aliceblue;
-  border: ridge pink 4px;
+  color: antiquewhite;
+  background-color: rgb(67, 67, 67);
+  border: solid black 4px;
   padding: 25px;
   margin: 15px;
-  list-style-type: lower-roman;
 }
 
 .ul {
-  color: yellow;
-  background-color: darkolivegreen;
+  color: antiquewhite;
+  background-color: rgb(67, 67, 67);
   margin: 10px;
-  border: double 20px black;
+  border: solid 4px black;
   border-radius: 10px;
 }
 
 .p1 {
   color: wheat;
+}
+
+.h3-p {
+}
+
+a:link {
+  color: antiquewhite;
+}
+
+a:hover {
+  color: lightblue;
+}
+
+a:visited {
+  color: mediumslateblue;
 }
